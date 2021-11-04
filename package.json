@@ -1,0 +1,25 @@
+{
+  "name": "movieclimogoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracysuzanne321/moviecli-mongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tracysuzanne321/moviecli-mongoose/issues"
+  },
+  "homepage": "https://github.com/tracysuzanne321/moviecli-mongoose#readme",
+  "dependencies": {
+    "argv": "0.0.2",
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.12",
+    "yargs": "^17.2.1"
+  }
+}
